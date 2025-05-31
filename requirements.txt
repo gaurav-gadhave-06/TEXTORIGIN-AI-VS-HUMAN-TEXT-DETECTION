@@ -1,0 +1,11 @@
+langchain 
+streamlit==1.30.0 
+ollama
+langchain-pinecone
+langchain_community
+python-dotenv
+pinecone
+bs4
+langchain_experimental
+sentence-transformers==2.4.0
+langchain_groq
