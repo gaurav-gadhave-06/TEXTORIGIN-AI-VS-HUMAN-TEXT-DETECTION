@@ -131,3 +131,5 @@ steps for project run:-
 6) Run the "fine_tuned.py" file for fine tuned model. After run this file create "/model" and "/result" folders.
 7) Finally run "main.py" file for run the project. #comman streamlit run main.py
 
+
+refernce = "https://medium.com/@prakashram1327/building-a-text-classification-model-using-distilbert-703c1409696c"
