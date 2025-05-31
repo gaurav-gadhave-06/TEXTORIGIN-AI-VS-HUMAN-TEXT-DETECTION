@@ -120,3 +120,14 @@ Hosting	✅ Cloud-based, scalable	❌ Local only
 Deployment	✅ API & LangChain Ready	⚠️ Dev/test use, not ideal for large-scale prod
 Real-time Use	✅ Excellent	⚠️ Good for small loads
 Cost	✅ Pay-per-use (no infra needed)	✅ Free if local compute is available
+
+
+steps for project run:-
+1) First create virtual enviroment and run requirement.txt file.
+2) Gather data from websites.
+3) Create account on pinecone vectore database.Create token use token for interaction with vectore database.
+4) Create account on Groq and use its api key token for use groq model.
+5) Run the "vectore_database_py" file for store information in vectore database.
+6) Run the "fine_tuned.py" file for fine tuned model. After run this file create "/model" and "/result" folders.
+7) Finally run "main.py" file for run the project. #comman streamlit run main.py
+
