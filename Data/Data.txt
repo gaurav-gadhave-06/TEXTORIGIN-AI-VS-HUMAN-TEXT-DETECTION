@@ -1,0 +1,5 @@
+Because of large file i cannot upload this file to github. So im giving link of the databases.
+
+1) AI VS HUMAN(data for finetunning)= "https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text/data"
+
+1)AI, HUMAN AND SENTIMENT(data for rag) = "https://huggingface.co/datasets/dmitva/human_ai_generated_text"
